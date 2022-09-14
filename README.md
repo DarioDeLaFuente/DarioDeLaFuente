@@ -11,6 +11,7 @@ I think this is a very exciting profession, which is why I am a student on the w
 -   CSS, SCSS, Bootstrap
 -   JavaScript
 -   WordPress REST API
+-   DOCKER
 
 
 
@@ -30,3 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+front-end developer

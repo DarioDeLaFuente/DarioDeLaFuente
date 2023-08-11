@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dario De La Fuente, a 40 year old Norwegian front-end developer student.
+I'm Dario De La Fuente, a front-end developer student.
 
 I have worked as Tech support in a company called Visma Digital Commerce for over 1 year. Tech support had several different roles in that company,Front-end developing was a small part of it.
 

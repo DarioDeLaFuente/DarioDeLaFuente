@@ -1,21 +1,23 @@
 ### Hi there 👋
+### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=DarioDeLaFuente)
 
-I'm Dario De La Fuente, a front-end developer student.
+I'm Dario De La Fuente, a front-end developer passionate about crafting user-friendly, responsive websites.
 
-I have worked as Tech support in a company called Visma Digital Commerce for over 1 year. Tech support had several different roles in that company,Front-end developing was a small part of it.
-
-I think this is a very exciting profession, which is why I am a student on the way to becoming a front-end developer.
+I previously worked as Tech Support at Visma Digital Commerce for over a year, where I gained experience in various roles, including front-end development. Now, with my studies completed, I am fully committed to front-end development and excited about building innovative web solutions.
 
 # Skills
--   HTML
--   CSS, SCSS, Bootstrap
--   JavaScript
--   WordPress REST API
--   DOCKER
+![HTML](https://img.shields.io/badge/HTML-5-orange) 
+![CSS](https://img.shields.io/badge/CSS-3-blue) 
+![SCSS](https://img.shields.io/badge/SCSS-ff69b4) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
+![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress) 
+![REST API](https://img.shields.io/badge/REST%20API-green) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 
-
-
-
+# GitHub Stats
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarioDeLaFuente&show_icons=true&theme=radical)
 
 <!--
 **DarioDeLaFuente/DarioDeLaFuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
